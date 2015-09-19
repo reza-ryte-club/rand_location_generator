@@ -119,7 +119,7 @@ var server = net.createServer(function(conn) {
 
 
 
-        },5000);
+        },10000);
 
 
     });
